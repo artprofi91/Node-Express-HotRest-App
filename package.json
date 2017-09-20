@@ -1,0 +1,24 @@
+{
+  "name": "hr-app",
+  "version": "1.0.0",
+  "description": "HR-app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artprofi91/HR-app.git"
+  },
+  "author": "Art's team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artprofi91/HR-app/issues"
+  },
+  "homepage": "https://github.com/artprofi91/HR-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
