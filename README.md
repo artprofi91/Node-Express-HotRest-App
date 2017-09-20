@@ -12,6 +12,7 @@ I used:
 ## How app works
 
 You can make the reservation request and it will be captured and listed on the site. Depending on whether or not it was one of the first five requests, it will be added to the reservation list - otherwise, it will be put on the waitlist.
+
 Click [here](https://art-hr-app.herokuapp.com/) to see app live.
 
 ![1](https://user-images.githubusercontent.com/28790452/30666172-15c2c620-9e19-11e7-9e95-d7a2cf093c2d.gif)
